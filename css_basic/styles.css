@@ -1,0 +1,16 @@
+.nav--btn {
+    
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+}
+.nav--btn li{
+    text-decoration: none;
+    display: flex;
+   
+}
+.nav--btn a{
+    text-decoration: none;
+    background-color: greenyellow;
+    border-radius: 5px;
+}
